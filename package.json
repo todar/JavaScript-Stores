@@ -1,0 +1,26 @@
+{
+  "name": "stores",
+  "version": "1.0.0",
+  "description": "A simple library to deal with state within a subscription model.",
+  "scripts": {
+    "test": "jest",
+    "test.watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/todar/JavaScript-Stores.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/todar/JavaScript-Stores/issues"
+  },
+  "homepage": "https://github.com/todar/JavaScript-Stores#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "@types/jest": "^26.0.14",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2"
+  }
+}
